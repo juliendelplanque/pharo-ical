@@ -7,7 +7,7 @@ baseline: spec
 			project: 'ZincHTTPComponents' with: [ 
 				spec
 					className: #ConfigurationOfZincHTTPComponents;
-					versionString: #Stable;
+					versionString: #stable;
 					repository: 'http://mc.stfx.eu/ZincHTTPComponents'
 				 ].
 		spec package: #'ICal-Core' ].
