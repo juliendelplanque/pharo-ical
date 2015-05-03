@@ -1,3 +1,3 @@
 journals
 addJournal: aJournal
-	^self journals add: aJournal
+	self journals add: aJournal

@@ -1,3 +1,3 @@
 freebusy
 addFreeBusy: aFreeBusy
-	^self freeBusy add: aFreeBusy
+	self freeBusy add: aFreeBusy
