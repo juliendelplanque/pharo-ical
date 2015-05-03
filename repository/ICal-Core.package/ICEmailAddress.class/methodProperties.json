@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"defaultTypes" : "pmm 10/30/2005 19:29",
+		"fromICalString:parameters:" : "pmm 6/1/2007 22:46",
+		"possibleTypes" : "pmm 3/24/2006 15:03",
+		"typeInternet" : "pmm 10/30/2005 19:28",
+		"typeX400" : "pmm 10/30/2005 19:28" },
+	"instance" : {
+		"address" : "pmm 10/30/2005 19:26",
+		"address:" : "pmm 10/30/2005 19:26",
+		"asVCardString" : "pmm 12/11/2005 14:01",
+		"beInternet" : "pmm 10/30/2005 20:02",
+		"beX400" : "pmm 10/30/2005 20:03",
+		"internet" : "pmm 10/30/2005 20:00",
+		"internet:" : "pmm 10/30/2005 20:02",
+		"isInternet" : "pmm 10/30/2005 20:01",
+		"isX400" : "pmm 10/30/2005 20:01",
+		"x400" : "pmm 10/30/2005 20:01",
+		"x400:" : "pmm 10/30/2005 20:02" } }

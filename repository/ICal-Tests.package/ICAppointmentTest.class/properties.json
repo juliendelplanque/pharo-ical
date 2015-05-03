@@ -1,0 +1,15 @@
+{
+	"category" : "ICal-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"appointment",
+		"serie" ],
+	"name" : "ICAppointmentTest",
+	"pools" : [
+		 ],
+	"super" : "ICTest",
+	"type" : "normal" }

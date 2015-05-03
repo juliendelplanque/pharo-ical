@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"iCalType" : "pmm 10/3/2005 22:34",
+		"possibleStati" : "pmm 10/3/2005 19:00",
+		"statusCompleted" : "pmm 10/3/2005 18:58",
+		"statusInProcess" : "pmm 10/3/2005 18:59",
+		"statusNeedsAction" : "pmm 10/3/2005 18:58" },
+	"instance" : {
+		"addToCalendar:" : "pmm 10/13/2005 10:09",
+		"beCompleted" : "pmm 10/3/2005 19:00",
+		"beInProcess" : "pmm 10/7/2005 16:33",
+		"beNeedsAction" : "pmm 10/7/2005 16:34",
+		"completed" : "pmm 10/3/2005 22:03",
+		"completed:" : "pmm 10/7/2005 16:20",
+		"due" : "pmm 10/7/2005 16:17",
+		"due:" : "PaulDeBruicker 1/8/2013 15:54",
+		"exportOn:" : "pmm 10/9/2005 12:05",
+		"isCompleted" : "pmm 10/3/2005 22:05",
+		"isInProcess" : "pmm 10/7/2005 17:03",
+		"isNeedsAction" : "pmm 10/7/2005 17:03",
+		"isValidForDate:" : "pmm 10/7/2005 16:28",
+		"percentComplete" : "pmm 10/9/2005 12:04",
+		"percentComplete:" : "pmm 10/9/2005 12:04",
+		"startsInHour:" : "pmm 10/17/2006 21:20",
+		"updateEventWith:" : "pmm 10/16/2006 23:40" } }

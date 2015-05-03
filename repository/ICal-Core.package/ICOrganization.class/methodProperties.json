@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"fromICalString:parameters:" : "pmm 6/1/2007 22:54",
+		"iCalType" : "PaulDeBruicker 2/21/2013 14:49" },
+	"instance" : {
+		"addUnitName:" : "pmm 11/1/2005 22:23",
+		"asVCardString" : "pmm 12/11/2005 14:02",
+		"initialize" : "pmm 11/1/2005 22:24",
+		"name" : "pmm 11/1/2005 22:22",
+		"name:" : "pmm 11/1/2005 22:23",
+		"unitNames" : "pmm 11/1/2005 22:23",
+		"unitNames:" : "pmm 11/1/2005 22:23" } }

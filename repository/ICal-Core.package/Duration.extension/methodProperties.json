@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"fromICalString:" : "pmm 10/17/2006 18:39",
+		"iCalType" : "pmm 10/3/2005 17:04" },
+	"instance" : {
+		"asICalString" : "pmm 10/17/2006 18:40",
+		"isNegative" : "pmm 10/2/2005 21:07",
+		"isOneDayLong" : "PaulDeBruicker 12/8/2012 16:32",
+		"isPositive" : "pmm 10/2/2005 21:06",
+		"weeks" : "pmm 10/2/2005 20:16" } }

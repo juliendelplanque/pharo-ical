@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCategory" : "pmm 10/7/2005 17:24",
+		"removeCategory" : "vf 6/15/2005 10:15",
+		"setUp" : "pmm 10/16/2006 23:53",
+		"testAddEvent" : "pmm 12/18/2006 17:44",
+		"testAppointments" : "pmm 10/7/2005 16:46",
+		"testCategories" : "pmm 10/7/2005 19:07",
+		"testCategoryWithTitle" : "pmm 10/7/2005 09:56",
+		"testEventsForDate" : "pmm 10/16/2006 23:56",
+		"testEventsForTimeStamp" : "pmm 10/17/2006 00:02",
+		"testIncludesEventWithUid" : "pmm 10/7/2005 19:21",
+		"testRemoveEvent" : "pmm 10/7/2005 18:59",
+		"testRemoveEventWithUid" : "pmm 10/7/2005 19:00",
+		"testUser" : "pmm 10/7/2005 00:24" } }

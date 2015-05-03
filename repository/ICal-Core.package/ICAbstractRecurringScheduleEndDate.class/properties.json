@@ -1,0 +1,15 @@
+{
+	"category" : "ICal-Core-Model-Schedule",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"schedule",
+		"end" ],
+	"name" : "ICAbstractRecurringScheduleEndDate",
+	"pools" : [
+		 ],
+	"super" : "ICComponent",
+	"type" : "normal" }

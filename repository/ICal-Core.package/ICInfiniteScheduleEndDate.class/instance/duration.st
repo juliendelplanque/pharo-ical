@@ -1,0 +1,3 @@
+length
+duration
+	^ICConversion infiniteDuration

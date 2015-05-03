@@ -1,0 +1,21 @@
+{
+	"category" : "ICal-Core-Model-Schedule",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 12/8/2012 21:17",
+	"instvars" : [
+		"interval",
+		"byRules",
+		"endDate",
+		"event",
+		"cache",
+		"dateCache",
+		"datesInProcess",
+		"lastRuleDuration" ],
+	"name" : "ICRecurrenceSchedule",
+	"pools" : [
+		 ],
+	"super" : "Schedule",
+	"type" : "normal" }

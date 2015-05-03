@@ -1,0 +1,3 @@
+accessing-types
+typeFax
+	^'fax'

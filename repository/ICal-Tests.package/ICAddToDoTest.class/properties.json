@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"calendar" ],
+	"name" : "ICAddToDoTest",
+	"pools" : [
+		 ],
+	"super" : "ICTest",
+	"type" : "normal" }

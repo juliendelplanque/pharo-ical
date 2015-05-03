@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Core-VCard-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ICVCardTypeInformation",
+	"pools" : [
+		 ],
+	"super" : "ICTypeInformation",
+	"type" : "normal" }

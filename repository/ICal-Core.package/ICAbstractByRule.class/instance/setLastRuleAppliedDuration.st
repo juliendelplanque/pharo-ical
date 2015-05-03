@@ -1,0 +1,3 @@
+evaluating
+setLastRuleAppliedDuration
+	self recurringSchedule lastRuleDuration: self duration

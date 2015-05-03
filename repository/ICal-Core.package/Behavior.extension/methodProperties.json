@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"fromICalString:parameters:" : "pmm 10/29/2005 21:32",
+		"fromICalString:parameters:timezone:" : "pmm 5/29/2007 23:10",
+		"fromVCardString:" : "pmm 12/2/2005 20:31",
+		"fromVCardString:parameters:" : "pmm 6/1/2007 22:31" } }

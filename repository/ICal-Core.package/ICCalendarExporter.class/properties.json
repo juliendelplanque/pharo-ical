@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Core-IO",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"calendar" ],
+	"name" : "ICCalendarExporter",
+	"pools" : [
+		 ],
+	"super" : "ICExporter",
+	"type" : "normal" }

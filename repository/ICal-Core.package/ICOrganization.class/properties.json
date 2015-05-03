@@ -1,0 +1,15 @@
+{
+	"category" : "ICal-Core-VCard-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"unitNames" ],
+	"name" : "ICOrganization",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

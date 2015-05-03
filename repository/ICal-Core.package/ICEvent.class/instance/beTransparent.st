@@ -1,0 +1,3 @@
+transparency
+beTransparent
+	self transparency: self class transparencyTranparent

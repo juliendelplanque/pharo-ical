@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"isAbstract" : "pmm 12/18/2006 15:35" },
+	"instance" : {
+		"dateAndTimeClass" : "pmm 10/19/2006 17:54",
+		"dateClass" : "pmm 10/19/2006 17:55",
+		"durationClass" : "pmm 10/19/2006 17:54",
+		"timeClass" : "pmm 10/19/2006 17:55",
+		"timespanClass" : "PaulDeBruicker 12/10/2012 11:26" } }

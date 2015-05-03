@@ -1,0 +1,15 @@
+{
+	"category" : "ICal-Tests-Core-Model-Schedule",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"event",
+		"date" ],
+	"name" : "ICScheduleEnumerationTests",
+	"pools" : [
+		 ],
+	"super" : "ICTest",
+	"type" : "normal" }

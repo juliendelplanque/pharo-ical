@@ -1,0 +1,3 @@
+length
+trimEndOf: someDates
+	^ someDates

@@ -1,0 +1,18 @@
+{
+	"category" : "ICal-Core-VCard-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"familyname",
+		"givenname",
+		"additionalnames",
+		"honorificprefixes",
+		"honorificsuffixes" ],
+	"name" : "ICName",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

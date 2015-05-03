@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ICParserTest",
+	"pools" : [
+		 ],
+	"super" : "ICTest",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+growing
+isMonthDay
+	^ true

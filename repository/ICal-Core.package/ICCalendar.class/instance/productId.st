@@ -1,0 +1,3 @@
+accessing
+productId
+	^productId

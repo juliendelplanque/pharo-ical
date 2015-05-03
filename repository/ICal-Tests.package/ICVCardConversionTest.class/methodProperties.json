@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddress" : "pmm 12/11/2005 11:27",
+		"testDate" : "pmm 10/17/2006 00:10",
+		"testDateAndTime" : "pmm 10/17/2006 21:36",
+		"testName" : "PaulDeBruicker 2/21/2013 13:19",
+		"testParseDate" : "pmm 10/16/2006 23:50",
+		"testParseDateAndTime" : "pmm 10/16/2006 23:47",
+		"testParseString" : "pmm 6/1/2007 22:15",
+		"testParseTime" : "pmm 10/16/2006 23:42",
+		"testTime" : "pmm 10/17/2006 00:11" } }

@@ -1,0 +1,3 @@
+accessing
+testParseAppleString
+	ICCalendarHandParser parseCalendarString: self appleString

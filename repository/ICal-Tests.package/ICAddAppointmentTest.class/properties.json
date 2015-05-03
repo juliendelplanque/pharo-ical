@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"calendar" ],
+	"name" : "ICAddAppointmentTest",
+	"pools" : [
+		 ],
+	"super" : "ICTest",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"fromICalString:parameters:" : "pmm 11/10/2005 23:20",
+		"iCalType" : "PaulDeBruicker 2/21/2013 14:50",
+		"relatedToEnd" : "pmm 11/10/2005 22:54",
+		"relatedToStart" : "pmm 11/10/2005 22:53" },
+	"instance" : {
+		"asICalString" : "pmm 11/10/2005 23:23",
+		"beRelatedToEnd" : "pmm 11/10/2005 22:56",
+		"beRelatedToStart" : "pmm 11/10/2005 22:56",
+		"exportICalParametersOn:" : "pmm 11/10/2005 23:11",
+		"iCalType" : "pmm 11/10/2005 23:21",
+		"isRelatedToEnd" : "pmm 11/10/2005 22:56",
+		"isRelatedToStart" : "pmm 11/10/2005 22:55",
+		"related" : "pmm 11/10/2005 22:54",
+		"related:" : "pmm 11/10/2005 22:54",
+		"value" : "pmm 11/10/2005 22:57",
+		"value:" : "pmm 11/10/2005 22:58" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "ICal-Core-IO",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"dataStream",
+		"lineStream",
+		"stringConversionBlock" ],
+	"name" : "ICExporter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

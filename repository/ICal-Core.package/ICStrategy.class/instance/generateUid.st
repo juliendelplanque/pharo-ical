@@ -1,0 +1,3 @@
+generating
+generateUid
+	self subclassResponsibility

@@ -1,0 +1,3 @@
+processing-properties
+addUnknownProperty: aProperty
+	self currentCard addUnknownProperty: aProperty

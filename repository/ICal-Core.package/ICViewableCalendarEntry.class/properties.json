@@ -1,0 +1,25 @@
+{
+	"category" : "ICal-Core-Abstract",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"attachments",
+		"categories",
+		"classification",
+		"created",
+		"exclusionDates",
+		"exclusionRules",
+		"status",
+		"recurrenceDates",
+		"recurrenceRules",
+		"lastModified",
+		"sequenceNumber",
+		"summary" ],
+	"name" : "ICViewableCalendarEntry",
+	"pools" : [
+		 ],
+	"super" : "ICCalendarEntry",
+	"type" : "normal" }

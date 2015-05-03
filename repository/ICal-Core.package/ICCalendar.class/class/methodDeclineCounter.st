@@ -1,0 +1,3 @@
+constants
+methodDeclineCounter
+	^'DECLINE-COUNTER'

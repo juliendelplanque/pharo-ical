@@ -1,0 +1,3 @@
+accessing-transparencies
+transparencyOpaque
+	^'OPAQUE'

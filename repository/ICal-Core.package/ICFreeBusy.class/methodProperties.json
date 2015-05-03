@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"iCalType" : "pmm 10/3/2005 22:36" },
+	"instance" : {
+		"addToCalendar:" : "pmm 10/13/2005 10:07",
+		"duration" : "pmm 10/7/2005 10:17",
+		"duration:" : "pmm 10/7/2005 10:17",
+		"end" : "pmm 10/3/2005 22:08",
+		"end:" : "pmm 10/3/2005 22:08",
+		"exportOn:" : "pmm 10/9/2005 11:57",
+		"start" : "pmm 10/7/2005 10:17",
+		"start:" : "pmm 10/7/2005 10:18" } }

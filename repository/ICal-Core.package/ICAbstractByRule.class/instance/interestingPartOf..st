@@ -1,0 +1,3 @@
+growing
+interestingPartOf: aDateAndTime
+	self subclassResponsibility

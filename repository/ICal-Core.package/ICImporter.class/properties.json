@@ -1,0 +1,16 @@
+{
+	"category" : "ICal-Core-IO",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fileContent",
+		"components",
+		"calendar" ],
+	"name" : "ICImporter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"category" : "ICal-Core-VCard-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"poBox",
+		"extended",
+		"street",
+		"locality",
+		"region",
+		"postalcode",
+		"country" ],
+	"name" : "ICAddress",
+	"pools" : [
+		 ],
+	"super" : "ICTypedObject",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"parseVCardFile:" : "pmm 11/12/2005 12:39",
+		"parseVCardStream:" : "pmm 11/12/2005 12:06",
+		"parseVCardString:" : "pmm 11/12/2005 12:04" },
+	"instance" : {
+		"addParameter:value:" : "pmm 11/19/2005 15:12",
+		"group" : "pmm 10/18/2005 06:54",
+		"group:" : "pmm 10/18/2005 06:54",
+		"isMultivalued:" : "pmm 10/29/2005 22:26",
+		"name:" : "pmm 11/4/2010 20:09",
+		"needsHackForOldFormat:value:" : "pmm 11/19/2005 15:11",
+		"parseHackForOldFormat:value:" : "pmm 12/3/2005 00:03",
+		"parseName" : "pmm 10/18/2005 06:57",
+		"unfoldEquals" : "pmm 11/19/2005 15:36" } }

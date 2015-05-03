@@ -1,0 +1,21 @@
+fixtures-parsing
+oscarCardString
+^'BEGIN:VCARD' , String crlf ,
+'VERSION:3.0' , String crlf ,
+'N:Nierstrasz;Oscar;;;' , String crlf ,
+'FN:Oscar2 Nierstrasz' , String crlf ,
+'ORG:University of Bern;' , String crlf ,
+'TITLE:Professor' , String crlf ,
+'EMAIL;type=INTERNET;type=WORK;type=pref:oscar.nierstrasz@acm.org' , String crlf ,
+'TEL;type=WORK;type=pref:+41 31 631.4618' , String crlf ,
+'TEL;type=HOME:+41 31 961.7065' , String crlf ,
+'TEL;type=WORK;type=FAX:+41 31 631.3355' , String crlf ,
+'item1.ADR;type=WORK;type=pref:;;Software Composition Group\nIAM\, University of Bern\nNeubrueckstrasse 10;Bern;;CH-3012;SWITZERLAND' , String crlf ,
+'item1.X-ABADR:us' , String crlf ,
+'item2.ADR;type=HOME:;;Fluhmattweg 41;Kehrsatz;;3122;SWITZERLAND' , String crlf ,
+'item2.X-ABADR:us' , String crlf ,
+'item3.ADR;type=HOME:;;Schuetzenmattstrasse 14\, room 103;;;;' , String crlf ,
+'item3.X-ABLabel:express' , String crlf ,
+'item3.X-ABADR:us' , String crlf ,
+'URL:http://www.iam.unibe.ch/~oscar/' , String crlf ,
+'END:VCARD' , String crlf

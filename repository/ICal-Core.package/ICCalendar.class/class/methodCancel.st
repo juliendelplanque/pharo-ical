@@ -1,0 +1,3 @@
+constants
+methodCancel
+	^'CANCEL'

@@ -1,0 +1,3 @@
+accessing
+product
+	^self cards

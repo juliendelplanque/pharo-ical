@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultEnd" : "PaulDeBruicker 12/10/2012 09:35",
+		"duration" : "PaulDeBruicker 12/8/2012 16:51",
+		"initialize" : "PaulDeBruicker 1/22/2013 20:15",
+		"isDefined" : "PaulDeBruicker 12/11/2012 21:34",
+		"lastDay" : "PaulDeBruicker 12/7/2012 18:05",
+		"lastDay:" : "PaulDeBruicker 12/7/2012 18:05",
+		"shouldStopFor:before:" : "PaulDeBruicker 12/10/2012 14:43",
+		"trimEndOf:" : "PaulDeBruicker 12/11/2012 21:46" } }

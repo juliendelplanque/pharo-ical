@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"dateTestCriteria" : "PaulDeBruicker 12/8/2012 21:40",
+		"duration" : "PaulDeBruicker 12/10/2012 12:09",
+		"interestingPartOf:" : "PaulDeBruicker 12/10/2012 13:17",
+		"isMonthDay" : "PaulDeBruicker 12/10/2012 20:16",
+		"max" : "PaulDeBruicker 12/8/2012 08:12",
+		"min" : "PaulDeBruicker 12/8/2012 08:12",
+		"newDateFrom:withInterestingCharacteristic:" : "PaulDeBruicker 12/11/2012 16:05",
+		"ordinalIndexesFor:" : "PaulDeBruicker 12/9/2012 00:45",
+		"shrinkTestFor:" : "PaulDeBruicker 12/9/2012 00:58",
+		"sortOrder" : "PaulDeBruicker 12/8/2012 12:03" } }

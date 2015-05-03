@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"parse:" : "pmm 9/13/2006 22:50",
+		"sample1" : "pmm 9/13/2006 22:43",
+		"sample2" : "pmm 9/13/2006 22:36",
+		"sample3" : "pmm 9/13/2006 22:38",
+		"sample4" : "pmm 9/13/2006 22:41",
+		"test1" : "PaulDeBruicker 2/22/2013 08:26",
+		"test2" : "PaulDeBruicker 2/22/2013 08:26",
+		"test3" : "PaulDeBruicker 2/22/2013 08:26",
+		"test4" : "PaulDeBruicker 2/22/2013 08:26",
+		"testIsGloballyUnique" : "pmm 4/7/2007 10:57" } }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"fromICalString:parameters:" : "pmm 9/13/2006 23:25",
+		"iCalType" : "PaulDeBruicker 2/21/2013 14:50" },
+	"instance" : {
+		"asICalString" : "pmm 9/14/2006 13:34",
+		"exportICalParametersOn:" : "pmm 9/13/2006 11:56",
+		"language" : "pmm 9/13/2006 11:51",
+		"language:" : "pmm 9/13/2006 11:51",
+		"printOn:" : "pmm 9/13/2006 23:27",
+		"text" : "pmm 9/13/2006 11:52",
+		"text:" : "pmm 9/13/2006 11:51" } }

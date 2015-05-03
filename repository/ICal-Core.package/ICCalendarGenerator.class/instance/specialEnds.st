@@ -1,0 +1,3 @@
+accessing
+specialEnds
+	^self specialBegins

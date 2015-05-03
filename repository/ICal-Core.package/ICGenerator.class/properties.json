@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Core-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ICGenerator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

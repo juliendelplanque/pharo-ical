@@ -1,0 +1,18 @@
+{
+	"category" : "ICal-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"calendar",
+		"category1",
+		"event1",
+		"event2",
+		"todo" ],
+	"name" : "ICCalendarTest",
+	"pools" : [
+		 ],
+	"super" : "ICTest",
+	"type" : "normal" }

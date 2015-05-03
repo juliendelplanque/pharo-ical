@@ -1,0 +1,21 @@
+{
+	"category" : "ICal-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"iCalExporter",
+		"calendar",
+		"event",
+		"todo",
+		"dateEvent",
+		"journal",
+		"alarm1",
+		"alarm2" ],
+	"name" : "ICExportTest",
+	"pools" : [
+		 ],
+	"super" : "ICTest",
+	"type" : "normal" }

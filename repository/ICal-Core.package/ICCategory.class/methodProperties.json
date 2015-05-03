@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"fromICalString:parameters:" : "pmm 6/1/2007 22:49",
+		"fromVCardString:parameters:" : "pmm 6/1/2007 22:53",
+		"summary:" : "pmm 10/6/2005 23:28" },
+	"instance" : {
+		"=" : "pmm 10/6/2005 23:27",
+		"asICalString" : "pmm 10/6/2005 23:33",
+		"color" : "pmm 10/6/2005 23:26",
+		"color:" : "pmm 10/6/2005 23:27",
+		"hasColor" : "pmm 10/7/2005 00:00",
+		"hasSummary" : "pmm 10/7/2005 17:22",
+		"hash" : "pmm 11/1/2005 22:31",
+		"printOn:" : "pmm 10/7/2005 17:22",
+		"summary" : "pmm 10/6/2005 23:26",
+		"summary:" : "pmm 10/6/2005 23:26",
+		"textualDescription" : "pmm 10/6/2005 23:26",
+		"textualDescription:" : "pmm 10/6/2005 23:27" } }

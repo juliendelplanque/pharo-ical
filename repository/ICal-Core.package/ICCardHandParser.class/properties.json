@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Core-VCard-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"group" ],
+	"name" : "ICCardHandParser",
+	"pools" : [
+		 ],
+	"super" : "ICCalendarHandParser",
+	"type" : "normal" }

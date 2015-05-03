@@ -1,0 +1,33 @@
+{
+	"category" : "ICal-Core-VCard-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"addresses",
+		"categories",
+		"birthday",
+		"emailAddresses",
+		"fullname",
+		"name",
+		"nickname",
+		"notes",
+		"organization",
+		"phoneNumbers",
+		"photo",
+		"title",
+		"url",
+		"version",
+		"aimids",
+		"msnids",
+		"icqids",
+		"yahooids",
+		"timeZone",
+		"geo" ],
+	"name" : "ICVCard",
+	"pools" : [
+		 ],
+	"super" : "ICComponent",
+	"type" : "normal" }

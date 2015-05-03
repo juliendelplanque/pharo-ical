@@ -1,0 +1,3 @@
+accessing
+uptime
+	^Time millisecondClockValue printStringHex asLowercase

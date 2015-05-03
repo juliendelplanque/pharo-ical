@@ -1,0 +1,15 @@
+{
+	"category" : "ICal-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"emailAddress",
+		"commonName" ],
+	"name" : "ICUser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

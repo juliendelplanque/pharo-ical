@@ -1,0 +1,1 @@
+I'm the abstract superclass of calendar and card exporters

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"fromICalString:" : "pmm 10/17/2006 18:39",
+		"fromVCardString:" : "pmm 10/17/2006 18:39",
+		"hour:minute:second:nanosecond:" : "pmm 10/16/2006 22:48",
+		"iCalType" : "pmm 10/3/2005 17:07" },
+	"instance" : {
+		"asICalString" : "pmm 10/17/2006 18:40",
+		"asICalUtcString" : "pmm 10/16/2006 23:01",
+		"asVCardString" : "JulienDelplanque 5/3/2015 13:36",
+		"asVCardUtcString" : "pmm 10/16/2006 23:20",
+		"formatNanosec" : "JulienDelplanque 5/3/2015 13:36" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Core-IO",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ICChronologyParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

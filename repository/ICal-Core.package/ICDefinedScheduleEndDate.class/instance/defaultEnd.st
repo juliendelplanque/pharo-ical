@@ -1,0 +1,3 @@
+accessing
+defaultEnd
+	^ self lastDay

@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"fromEvent:" : "PaulDeBruicker 12/8/2012 13:11" },
+	"instance" : {
+		"cache" : "PaulDeBruicker 12/9/2012 22:02",
+		"createExclusionSchedules" : "PaulDeBruicker 12/9/2012 21:22",
+		"createFromEvent:" : "PaulDeBruicker 12/9/2012 21:21",
+		"createRecurrenceSchedules" : "PaulDeBruicker 12/10/2012 11:12",
+		"dates" : "PaulDeBruicker 12/11/2012 19:45",
+		"datesBetween:and:" : "PaulDeBruicker 12/10/2012 11:21",
+		"end" : "PaulDeBruicker 12/9/2012 21:10",
+		"event" : "PaulDeBruicker 12/8/2012 17:29",
+		"event:" : "PaulDeBruicker 12/8/2012 17:29",
+		"exclusionDatesBetween:and:" : "PaulDeBruicker 12/8/2012 18:14",
+		"exclusionSchedules" : "PaulDeBruicker 12/8/2012 17:26",
+		"exclusionSchedules:" : "PaulDeBruicker 12/8/2012 17:29",
+		"hasExclusionSchedules" : "PaulDeBruicker 12/8/2012 17:25",
+		"hasMoreThanOneDate" : "PaulDeBruicker 12/11/2012 18:28",
+		"initialize" : "PaulDeBruicker 12/9/2012 18:54",
+		"isInfinite" : "PaulDeBruicker 12/9/2012 21:09",
+		"occursOn:" : "PaulDeBruicker 12/8/2012 16:54",
+		"recurrenceDatesBetween:and:" : "PaulDeBruicker 12/16/2012 18:40",
+		"recurrenceSchedules" : "PaulDeBruicker 12/8/2012 17:29",
+		"recurrenceSchedules:" : "PaulDeBruicker 12/8/2012 17:29",
+		"setEnd" : "PaulDeBruicker 12/9/2012 21:11",
+		"start" : "PaulDeBruicker 12/9/2012 21:10",
+		"useCache" : "PaulDeBruicker 12/9/2012 22:02" } }

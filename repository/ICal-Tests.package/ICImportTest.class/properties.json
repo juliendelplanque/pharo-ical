@@ -1,0 +1,18 @@
+{
+	"category" : "ICal-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"calendar",
+		"importCommand",
+		"todo",
+		"otherTodo",
+		"event" ],
+	"name" : "ICImportTest",
+	"pools" : [
+		 ],
+	"super" : "ICTest",
+	"type" : "normal" }

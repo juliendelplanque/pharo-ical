@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"needsUtc" ],
+	"name" : "ICTimeTypeInformation",
+	"pools" : [
+		 ],
+	"super" : "ICTypeInformation",
+	"type" : "normal" }

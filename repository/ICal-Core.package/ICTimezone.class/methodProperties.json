@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"iCalType" : "pmm 10/3/2005 22:37" },
+	"instance" : {
+		"addDaylightSavingTime:" : "pmm 9/14/2006 09:37",
+		"addStandardTime:" : "pmm 9/14/2006 09:35",
+		"addToCalendar:" : "pmm 10/13/2005 10:08",
+		"daylightSavingTimes" : "pmm 9/13/2006 22:57",
+		"daylightSavingTimes:" : "pmm 9/14/2006 09:52",
+		"daylightSavingTimesDo:" : "pmm 9/14/2006 12:18",
+		"exportOn:" : "pmm 9/14/2006 12:20",
+		"id" : "pmm 9/13/2006 11:38",
+		"id:" : "pmm 9/13/2006 11:39",
+		"initialize" : "pmm 9/14/2006 09:52",
+		"isGloballyUnique" : "pmm 4/7/2007 10:55",
+		"lastModified" : "pmm 10/6/2005 23:01",
+		"lastModified:" : "pmm 10/6/2005 23:02",
+		"printOn:" : "pmm 9/14/2006 09:55",
+		"standardTimes" : "pmm 9/13/2006 22:57",
+		"standardTimes:" : "pmm 9/14/2006 09:52",
+		"standardTimesDo:" : "pmm 9/14/2006 12:18",
+		"url" : "pmm 9/13/2006 11:33",
+		"url:" : "pmm 9/13/2006 11:34" } }

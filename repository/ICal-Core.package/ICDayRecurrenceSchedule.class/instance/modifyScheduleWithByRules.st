@@ -1,0 +1,3 @@
+rules
+modifyScheduleWithByRules
+	self shouldBeImplemented.

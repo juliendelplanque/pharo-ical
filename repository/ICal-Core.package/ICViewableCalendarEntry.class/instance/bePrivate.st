@@ -1,0 +1,3 @@
+classification
+bePrivate
+	self classification: self class classificationPrivate

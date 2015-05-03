@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"removeTesting:" : "pmm 9/11/2005 15:50",
+		"setUp" : "pmm 9/17/2006 21:39",
+		"testRemoveAppointment" : "pmm 10/17/2006 00:11",
+		"testRemoveToDo" : "pmm 10/17/2006 00:11" } }

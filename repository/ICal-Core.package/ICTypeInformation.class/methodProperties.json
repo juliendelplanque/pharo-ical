@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"name:type:multivalued:" : "pmm 10/18/2005 06:29" },
+	"instance" : {
+		"conversionSelector" : "pmm 11/7/2005 10:00",
+		"convert:" : "pmm 11/7/2005 10:01",
+		"defaultType" : "pmm 10/8/2005 00:04",
+		"defaultType:" : "pmm 10/8/2005 00:05",
+		"multipleValuesPerLine" : "pmm 10/8/2005 00:04",
+		"multipleValuesPerLine:" : "pmm 10/8/2005 00:05",
+		"name" : "pmm 10/8/2005 00:05",
+		"name:" : "pmm 10/8/2005 00:05",
+		"needsUtc" : "pmm 10/18/2005 06:27" } }

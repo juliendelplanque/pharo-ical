@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"fromICalString:" : "pmm 10/17/2006 18:39",
+		"fromVCardString:" : "PaulDeBruicker 1/15/2015 20:56",
+		"iCalType" : "pmm 10/3/2005 17:08" },
+	"instance" : {
+		"<" : "PaulDeBruicker 1/15/2015 21:12",
+		"=" : "PaulDeBruicker 1/15/2015 21:52",
+		"asICalString" : "pmm 10/17/2006 21:57",
+		"asICalUtcString" : "pmm 10/17/2006 21:57",
+		"asVCardString" : "pmm 12/10/2005 11:00",
+		"isDateOrNil" : "pmm 10/7/2005 14:18" } }

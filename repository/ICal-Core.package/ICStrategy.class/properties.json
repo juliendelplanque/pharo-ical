@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Core-Strategy",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ICStrategy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

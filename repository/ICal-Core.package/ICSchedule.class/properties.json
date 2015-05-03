@@ -1,0 +1,19 @@
+{
+	"category" : "ICal-Core-Model-Schedule",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"event",
+		"recurrenceSchedules",
+		"exclusionSchedules",
+		"useCache",
+		"dateCache",
+		"end" ],
+	"name" : "ICSchedule",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

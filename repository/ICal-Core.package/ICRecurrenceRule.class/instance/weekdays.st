@@ -1,0 +1,3 @@
+accessing
+weekdays
+	^weekdays

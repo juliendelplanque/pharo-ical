@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Tests-Core-Model-Schedule",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ICByDayRuleTests",
+	"pools" : [
+		 ],
+	"super" : "ICByRuleTests",
+	"type" : "normal" }

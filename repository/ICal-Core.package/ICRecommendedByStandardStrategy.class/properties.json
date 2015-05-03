@@ -1,0 +1,15 @@
+{
+	"category" : "ICal-Core-Strategy",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"uuidstragety",
+		"hostName" ],
+	"name" : "ICRecommendedByStandardStrategy",
+	"pools" : [
+		 ],
+	"super" : "ICStrategy",
+	"type" : "normal" }

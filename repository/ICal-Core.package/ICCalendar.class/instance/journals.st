@@ -1,0 +1,3 @@
+journals
+journals
+	^journals

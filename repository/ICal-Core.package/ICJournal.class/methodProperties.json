@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"iCalType" : "pmm 10/3/2005 22:35",
+		"possibleStati" : "pmm 10/3/2005 19:05",
+		"statusDraft" : "pmm 10/3/2005 19:04",
+		"statusFinal" : "pmm 10/3/2005 19:04" },
+	"instance" : {
+		"addTextualDescription:" : "pmm 10/12/2005 06:35",
+		"addToCalendar:" : "pmm 10/13/2005 10:08",
+		"beDraft" : "pmm 10/7/2005 16:35",
+		"beFinal" : "pmm 10/7/2005 16:35",
+		"exportOn:" : "pmm 10/9/2005 11:58",
+		"initialize" : "pmm 10/3/2005 17:43",
+		"isDraft" : "pmm 10/7/2005 17:05",
+		"isFinal" : "pmm 10/7/2005 17:05",
+		"textualDescriptions" : "pmm 10/3/2005 17:42",
+		"textualDescriptions:" : "pmm 10/3/2005 17:42" } }

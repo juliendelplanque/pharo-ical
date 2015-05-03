@@ -1,0 +1,3 @@
+accessing
+hasWeekStartday
+	^ weekStart notNil

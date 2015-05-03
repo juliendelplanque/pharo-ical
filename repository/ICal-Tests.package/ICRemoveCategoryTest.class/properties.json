@@ -1,0 +1,15 @@
+{
+	"category" : "ICal-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"calendar",
+		"category" ],
+	"name" : "ICRemoveCategoryTest",
+	"pools" : [
+		 ],
+	"super" : "ICTest",
+	"type" : "normal" }

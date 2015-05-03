@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"fromICalString:" : "pmm 9/13/2006 23:24",
+		"fromVCardString:" : "pmm 1/1/2007 10:25",
+		"iCalType" : "pmm 9/13/2006 13:06" },
+	"instance" : {
+		"=" : "pmm 11/4/2010 20:07",
+		"asICalString" : "pmm 9/13/2006 22:02",
+		"asVCardString" : "pmm 1/1/2007 10:26",
+		"hash" : "pmm 9/13/2006 23:06",
+		"hours" : "pmm 9/13/2006 21:45",
+		"hours:" : "pmm 9/13/2006 21:45",
+		"initialize" : "pmm 10/1/2006 14:17",
+		"minutes" : "pmm 9/13/2006 21:45",
+		"minutes:" : "pmm 9/13/2006 21:45",
+		"positive" : "pmm 9/13/2006 21:55",
+		"positive:" : "pmm 9/13/2006 21:55",
+		"printOn:" : "pmm 9/13/2006 23:21",
+		"seconds" : "pmm 9/13/2006 21:45",
+		"seconds:" : "pmm 9/13/2006 21:45",
+		"totalSeconds" : "pmm 9/13/2006 21:56" } }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultEnd" : "PaulDeBruicker 2/20/2013 22:00",
+		"durationFor:" : "PaulDeBruicker 12/7/2012 18:04",
+		"end" : "PaulDeBruicker 12/10/2012 09:35",
+		"isDefined" : "PaulDeBruicker 12/11/2012 21:33",
+		"isEpisodic" : "PaulDeBruicker 12/11/2012 21:32",
+		"isInfinite" : "PaulDeBruicker 12/7/2012 18:04",
+		"schedule" : "PaulDeBruicker 12/7/2012 18:04",
+		"schedule:" : "PaulDeBruicker 12/7/2012 18:04",
+		"scheduleArrayAt:" : "PaulDeBruicker 12/7/2012 18:04",
+		"shouldStopFor:before:" : "PaulDeBruicker 12/10/2012 14:43",
+		"start" : "PaulDeBruicker 12/7/2012 18:04" } }

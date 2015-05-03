@@ -1,0 +1,3 @@
+accessing-stati
+statusConfirmed
+	^'CONFIRMED'

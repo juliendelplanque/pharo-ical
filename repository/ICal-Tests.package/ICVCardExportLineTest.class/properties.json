@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Tests-Core-VCard",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vCardExporter" ],
+	"name" : "ICVCardExportLineTest",
+	"pools" : [
+		 ],
+	"super" : "ICTest",
+	"type" : "normal" }

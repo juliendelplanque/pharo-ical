@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addComment:" : "pmm 9/13/2006 12:59",
+		"addName:" : "pmm 9/13/2006 12:47",
+		"addRecurrenceDate:" : "pmm 10/1/2006 14:24",
+		"addRecurrenceRule:" : "pmm 9/14/2006 10:11",
+		"comments" : "pmm 9/13/2006 12:59",
+		"comments:" : "pmm 9/13/2006 12:59",
+		"exportOn:" : "pmm 10/1/2006 14:58",
+		"initialize" : "pmm 9/14/2006 10:21",
+		"names" : "pmm 9/13/2006 12:48",
+		"names:" : "pmm 9/13/2006 12:48",
+		"offsetFrom" : "pmm 9/13/2006 22:11",
+		"offsetFrom:" : "pmm 9/13/2006 22:12",
+		"offsetTo" : "pmm 9/13/2006 22:12",
+		"offsetTo:" : "pmm 9/13/2006 22:12",
+		"recurrenceDates" : "pmm 9/13/2006 12:48",
+		"recurrenceDates:" : "pmm 9/13/2006 12:48",
+		"recurrenceRules" : "pmm 9/13/2006 22:59",
+		"recurrenceRules:" : "pmm 9/13/2006 22:59",
+		"start" : "pmm 9/13/2006 12:48",
+		"start:" : "pmm 9/13/2006 12:48" } }

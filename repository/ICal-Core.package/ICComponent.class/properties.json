@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Core-Abstract",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"unknownProperties" ],
+	"name" : "ICComponent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+*ICal-Core
+iCalType
+	^'TEXT'

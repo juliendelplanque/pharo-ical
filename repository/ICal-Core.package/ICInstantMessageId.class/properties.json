@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Core-VCard-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id" ],
+	"name" : "ICInstantMessageId",
+	"pools" : [
+		 ],
+	"super" : "ICTypedObject",
+	"type" : "normal" }

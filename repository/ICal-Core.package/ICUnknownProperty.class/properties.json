@@ -1,0 +1,16 @@
+{
+	"category" : "ICal-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"value",
+		"parameters" ],
+	"name" : "ICUnknownProperty",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

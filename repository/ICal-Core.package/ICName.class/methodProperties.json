@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"fromICalString:parameters:" : "pmm 6/1/2007 22:46",
+		"iCalType" : "PaulDeBruicker 2/21/2013 14:49",
+		"unsplit:parameters:" : "pmm 6/1/2007 22:45" },
+	"instance" : {
+		"addAdditionalName:" : "pmm 10/30/2005 08:10",
+		"addHonorificPrefix:" : "pmm 10/30/2005 08:11",
+		"addHonorificSuffix:" : "pmm 10/30/2005 08:10",
+		"additionalNames" : "pmm 10/30/2005 08:09",
+		"additionalNames:" : "pmm 10/30/2005 08:09",
+		"asVCardString" : "pmm 12/11/2005 14:02",
+		"displayString" : "pmm 3/27/2006 12:49",
+		"familyName" : "pmm 3/27/2006 12:49",
+		"familyName:" : "pmm 10/30/2005 08:08",
+		"givenName" : "pmm 10/30/2005 08:08",
+		"givenName:" : "pmm 10/30/2005 08:08",
+		"honorificPrefixes" : "pmm 10/30/2005 08:07",
+		"honorificPrefixes:" : "pmm 10/30/2005 08:07",
+		"honorificSuffixes" : "pmm 10/30/2005 08:07",
+		"honorificSuffixes:" : "pmm 10/30/2005 08:07",
+		"initialize" : "pmm 10/30/2005 08:10" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "ICal-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"hours",
+		"minutes",
+		"seconds",
+		"positive" ],
+	"name" : "ICUtcOffset",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ICal-Core-VCard-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"address" ],
+	"name" : "ICEmailAddress",
+	"pools" : [
+		 ],
+	"super" : "ICTypedObject",
+	"type" : "normal" }

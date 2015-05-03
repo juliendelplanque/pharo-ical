@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"iCalType" : "pmm 10/3/2005 22:36" },
+	"instance" : {
+		"addUnknownProperty:" : "pmm 10/14/2005 15:50",
+		"dateAndTimeClass" : "pmm 10/19/2006 17:56",
+		"dateClass" : "pmm 10/19/2006 17:56",
+		"durationClass" : "pmm 10/19/2006 17:57",
+		"exportOn:" : "pmm 10/9/2005 10:56",
+		"initialize" : "pmm 10/14/2005 15:50",
+		"timeClass" : "pmm 10/19/2006 17:57",
+		"timespanClass" : "PaulDeBruicker 2/21/2013 22:08",
+		"unknownProperties" : "pmm 10/14/2005 15:49",
+		"unknownProperties:" : "pmm 10/14/2005 15:49" } }

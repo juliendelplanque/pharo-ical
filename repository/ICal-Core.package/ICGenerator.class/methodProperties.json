@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addUnknownProperty:" : "pmm 11/1/2005 22:34",
+		"asSelector:" : "avi 10/15/2005 19:16",
+		"begin:" : "avi 10/15/2005 19:27",
+		"contentline:parameters:value:" : "avi 10/15/2005 19:16",
+		"createValue:parameters:default:" : "pmm 12/3/2005 12:04",
+		"createValue:parameters:type:" : "pmm 12/3/2005 12:03",
+		"doesNotUnderstand:" : "avi 10/15/2005 19:24",
+		"end:" : "avi 10/15/2005 19:27",
+		"noParameterSelectors" : "avi 10/15/2005 19:27",
+		"product" : "pmm 11/1/2005 22:36",
+		"splitAtCommas:" : "pmm 10/30/2005 08:23" } }

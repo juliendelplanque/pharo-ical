@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"decodeQuotedPrintable:" : "PaulDeBruicker 1/16/2015 08:54",
+		"fromICalString:parameters:" : "pmm 6/1/2007 23:13",
+		"fromVCardString:parameters:" : "pmm 6/1/2007 22:31",
+		"iCalType" : "pmm 10/3/2005 17:11",
+		"unescapeBackslashes:" : "pmm 6/1/2007 22:27" },
+	"instance" : {
+		"asICalParameterString" : "pmm 10/12/2005 06:30",
+		"asICalString" : "pmm 12/3/2005 12:27",
+		"asNewICalString" : "pmm 12/3/2005 12:47",
+		"asOldICalString" : "PaulDeBruicker 1/16/2015 08:43",
+		"asVCardString" : "pmm 12/3/2005 12:28",
+		"replaceStrings:" : "PaulDeBruicker 1/15/2015 20:57",
+		"splitAtCommas" : "pmm 11/4/2010 20:02",
+		"subStringsFull:" : "pmm 10/29/2005 23:18" } }
