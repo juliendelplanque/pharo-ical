@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfICal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfICal",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
