@@ -1,3 +1,3 @@
 adding
 addTextualDescription: aString
-	^self textualDescriptions add: aString
+	self textualDescriptions add: aString
