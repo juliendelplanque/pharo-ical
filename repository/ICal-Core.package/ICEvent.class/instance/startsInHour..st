@@ -1,4 +1,3 @@
 testing
-startsInHour: aDateAndTime 
-	^aDateAndTime <= self start
-		and: [(aDateAndTime + (self durationClass seconds: 3600)) >= self start ]
+startsInHour: aDateAndTime
+	^ self start between: aDateAndTime and: aDateAndTime + (self durationClass seconds: 3600)
