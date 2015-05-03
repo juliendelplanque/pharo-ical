@@ -3,6 +3,8 @@ ICal
 
 This project is a fork of http://smalltalkhub.com/#!/~pdebruic/iCal/ to create a full compatibility with the Pharo environments.
 
+It provides objects to manipulate ICalendar objects (ie reading/writing).
+
 ## Compatibility
 The project currently works on:
 
@@ -37,6 +39,17 @@ Simply add these lines to your Metacello configuration:
 spec baseline: 'ICal' with: [
     spec repository: 'github://juliendelplanque/pharo-ical/repository' ].
 ~~~
+
+# Development
+To contribute to the project,
+
+- Fork this repository and clone your fork somewhere on your computer.
+- Switch to 'bleed' branch.
+- Import ICal and ICal-Tests packages using filetree.
+- Make some improvements.
+- Commit your changes in Monticello.
+- Commit your changes in the git repository.
+- Propose a pull request on Github.
 
 # Misc
 ## Smalltalkhub's README (supported features)
