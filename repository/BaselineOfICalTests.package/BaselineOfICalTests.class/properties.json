@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfICalTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfICalTests",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
