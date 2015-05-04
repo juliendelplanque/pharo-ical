@@ -8,6 +8,7 @@ It provides objects to manipulate ICalendar objects (ie reading/writing).
 ## Compatibility
 The project currently works on:
 
+- Pharo 2
 - Pharo 3
 - Pharo 4
 
