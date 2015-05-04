@@ -1,4 +1,4 @@
-accessing
+printing
 printOn: aStream
 	super printOn: aStream.
 	self id isNil ifFalse: [
