@@ -5,6 +5,8 @@ This project is a fork of http://smalltalkhub.com/#!/~pdebruic/iCal/ to create a
 
 It provides objects to manipulate ICalendar objects (ie reading/writing).
 
+Do not hesitate to check the wiki for examples, I'll try to make it usefull to get started with this lib!
+
 ## Compatibility
 The project currently works on:
 
