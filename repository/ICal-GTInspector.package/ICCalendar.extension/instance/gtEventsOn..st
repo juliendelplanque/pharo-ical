@@ -1,6 +1,6 @@
 *ICal-GTInspector
 gtEventsOn: aComposite
-	<gtInspectorPresentationOrder: 42>
+	<gtInspectorPresentationOrder: 1>
 
 	aComposite table
 		title: 'Events';

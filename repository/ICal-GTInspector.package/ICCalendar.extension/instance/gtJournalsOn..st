@@ -1,6 +1,6 @@
 *ICal-GTInspector
 gtJournalsOn: aComposite
-	<gtInspectorPresentationOrder: 44>
+	<gtInspectorPresentationOrder: 3>
 
 	aComposite table
 		title: 'Journals';

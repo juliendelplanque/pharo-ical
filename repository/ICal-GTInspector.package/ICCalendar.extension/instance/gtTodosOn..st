@@ -1,6 +1,6 @@
 *ICal-GTInspector
 gtTodosOn: aComposite
-	<gtInspectorPresentationOrder: 43>
+	<gtInspectorPresentationOrder: 2>
 
 	aComposite table
 		title: 'Todos';

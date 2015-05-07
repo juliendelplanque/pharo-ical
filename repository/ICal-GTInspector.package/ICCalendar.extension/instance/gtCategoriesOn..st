@@ -1,6 +1,6 @@
 *ICal-GTInspector
 gtCategoriesOn: aComposite
-	<gtInspectorPresentationOrder: 44>
+	<gtInspectorPresentationOrder: 5>
 
 	aComposite table
 		title: 'Categories';

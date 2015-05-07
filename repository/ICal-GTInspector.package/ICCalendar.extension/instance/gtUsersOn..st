@@ -1,6 +1,6 @@
 *ICal-GTInspector
 gtUsersOn: aComposite
-	<gtInspectorPresentationOrder: 46>
+	<gtInspectorPresentationOrder: 6>
 
 	aComposite table
 		title: 'Users';

@@ -1,6 +1,6 @@
 *ICal-GTInspector
 gtTimezonesOn: aComposite
-	<gtInspectorPresentationOrder: 48>
+	<gtInspectorPresentationOrder: 7>
 
 	aComposite table
 		title: 'Time zones';

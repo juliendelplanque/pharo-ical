@@ -1,6 +1,6 @@
 *ICal-GTInspector
 gtFreeBusyOn: aComposite
-	<gtInspectorPresentationOrder: 47>
+	<gtInspectorPresentationOrder: 4>
 
 	aComposite table
 		title: 'Free busy';
