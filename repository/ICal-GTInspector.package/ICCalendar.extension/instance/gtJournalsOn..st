@@ -5,6 +5,6 @@ gtJournalsOn: aComposite
 	aComposite table
 		title: 'Journals';
 		display: [ self journals ];
-		column: 'Textual description'
+		column: 'Summary'
 		evaluated: [ :each | each summary ]
 		tags: [ :each | each isDraft ifTrue: [ 'Draft' ] ifFalse: [ 'Final' ] ]
