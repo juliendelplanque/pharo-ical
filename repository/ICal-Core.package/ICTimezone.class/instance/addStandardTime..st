@@ -1,3 +1,3 @@
 accessing
 addStandardTime: aStandardTime
-	^self standardTimes add: aStandardTime
+	self standardTimes add: aStandardTime

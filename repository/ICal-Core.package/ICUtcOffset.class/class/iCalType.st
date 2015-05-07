@@ -1,3 +1,3 @@
 accessing
 iCalType
-	^'utc-offset'
+	^'UTC-OFFSET'

@@ -1,3 +1,3 @@
 adding
 addPosition: anInteger
-	^self positions add: anInteger
+	self positions add: anInteger

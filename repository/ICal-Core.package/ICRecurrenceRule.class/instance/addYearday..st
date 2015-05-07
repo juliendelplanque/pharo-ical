@@ -1,3 +1,3 @@
 adding
 addYearday: anInteger
-	^self yeardays add: anInteger
+	self yeardays add: anInteger

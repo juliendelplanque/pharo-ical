@@ -1,3 +1,3 @@
 adding
 addWeeknumber: anInteger
-	^self weeknumbers add: anInteger
+	self weeknumbers add: anInteger

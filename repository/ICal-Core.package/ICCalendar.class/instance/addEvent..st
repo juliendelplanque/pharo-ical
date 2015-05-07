@@ -1,3 +1,3 @@
 events
 addEvent: anEvent 
-	^self events add: anEvent
+	self events add: anEvent

@@ -1,3 +1,3 @@
 adding
 addMinute: anInteger
-	^self minutes add: anInteger
+	self minutes add: anInteger

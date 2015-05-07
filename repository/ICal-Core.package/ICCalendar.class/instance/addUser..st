@@ -1,3 +1,3 @@
 users
 addUser: aUser
-	^self users add: aUser
+	self users add: aUser

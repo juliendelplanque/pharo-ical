@@ -1,3 +1,3 @@
 adding
 addMonthday: anInteger
-	^self monthdays add: anInteger
+	self monthdays add: anInteger
