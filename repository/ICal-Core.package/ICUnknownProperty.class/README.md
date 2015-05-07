@@ -1,0 +1,1 @@
+This class represents an unknown property that is to say a custom property not defined in the RFC.
