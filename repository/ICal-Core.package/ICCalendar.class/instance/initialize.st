@@ -7,7 +7,7 @@ initialize
 	self journals: OrderedCollection new.
 	self timezones: OrderedCollection new.
 	self todos: OrderedCollection new.
-	self events: OrderedCollection new.
+	self events: (SortedCollection sortBlock: [:e1 :e2 | e1 start < e2 start ]).
 	self users: OrderedCollection new.
 	self freeBusy: OrderedCollection new.
 	self productId: self class productId.
