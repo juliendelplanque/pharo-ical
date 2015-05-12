@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfICalGTInspector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfICalGTInspector",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
