@@ -45,4 +45,4 @@ setUp
 	todo due: (self dateAndTimeClass now + (self durationClass days: 4 hours: 0 minutes: 0 seconds: 0)).
 	calendar addEvent: appointment1.
 	calendar addEvent: appointment2.
-	calendar addEvent: todo
+	calendar addTodo: todo

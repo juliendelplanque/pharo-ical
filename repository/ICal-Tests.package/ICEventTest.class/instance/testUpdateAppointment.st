@@ -2,6 +2,7 @@ testing
 testUpdateAppointment
 	| appEvent |
 	appEvent := ICEvent summary: 'meeting'.
+	appEvent start: DateAndTime today; end: DateAndTime tomorrow.
 	calendar addEvent: appEvent.
 	appEvent updateEventWith: appointment1.
 	self assert: appEvent summary = appointment1 summary.
