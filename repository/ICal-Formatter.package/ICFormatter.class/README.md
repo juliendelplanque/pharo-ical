@@ -1,0 +1,1 @@
+My class side provide messages to convert fields of an ICCalendar object.

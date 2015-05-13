@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"changeEventOffsetOf:of:" : "JulienDelplanque 5/13/2015 11:51",
+		"changeOffset:of:of:" : "JulienDelplanque 5/5/2015 19:52",
+		"convert:of:with:accessor:mutator:" : "JulienDelplanque 5/5/2015 18:22",
+		"convertCategoriesSummariesOf:with:" : "JulienDelplanque 5/5/2015 19:23",
+		"convertEventsSummariesOf:with:" : "JulienDelplanque 5/5/2015 19:23" },
+	"instance" : {
+		 } }
