@@ -4,6 +4,8 @@
 		"changeOffset:of:of:" : "JulienDelplanque 5/5/2015 19:52",
 		"convert:of:with:accessor:mutator:" : "JulienDelplanque 5/5/2015 18:22",
 		"convertCategoriesSummariesOf:with:" : "JulienDelplanque 5/5/2015 19:23",
-		"convertEventsSummariesOf:with:" : "JulienDelplanque 5/5/2015 19:23" },
+		"convertEventsSummariesOf:with:" : "JulienDelplanque 5/5/2015 19:23",
+		"filter:of:with:accessor:" : "JulienDelplanque 9/1/2015 18:25",
+		"filterEventsSummariesOf:with:" : "JulienDelplanque 9/1/2015 18:18" },
 	"instance" : {
 		 } }
