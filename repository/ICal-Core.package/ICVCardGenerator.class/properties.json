@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "<historical>",
+	"commentStamp" : "JulienDelplanque 7/26/2019 11:35",
 	"super" : "ICGenerator",
 	"category" : "ICal-Core-VCard-Parser",
 	"classinstvars" : [ ],
