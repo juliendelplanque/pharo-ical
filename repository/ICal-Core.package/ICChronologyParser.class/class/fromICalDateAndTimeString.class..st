@@ -2,7 +2,9 @@ date-time
 fromICalDateAndTimeString: aString class: aClass
 	| yearMonthDay hourMinuteSecond |
 	yearMonthDay := self splitYearMonthDayICal: (aString first: 8).
-	hourMinuteSecond := self splitHourMinuteSecondICal: (aString allButFirst: 9).
+	aString size > 8 
+		ifTrue: [hourMinuteSecond := self splitHourMinuteSecondICal: (aString  allButFirst: 9)]
+		ifFalse: [hourMinuteSecond := #(0 0 0) ].
 	^ (aString size > 15 and: [ (aString at: 16) = $Z ])
 		ifTrue: [
 			aClass
