@@ -14,20 +14,20 @@ Do not hesitate to check the wiki for examples, I'll try to make it usefull to g
 ## Load the package
 To load the package in your image simply run:
 
-~~~
+```st
 Metacello new
     baseline: 'ICal';
     repository: 'github://juliendelplanque/pharo-ical/src';
     load.
-~~~
+```
 
 ## Make this project a dependency of you project:
 Simply add these lines to your Metacello configuration:
 
-~~~
+```st
 spec baseline: 'ICal' with: [
     spec repository: 'github://juliendelplanque/pharo-ical/src' ].
-~~~
+```
 
 # Development
 To contribute to the project,
