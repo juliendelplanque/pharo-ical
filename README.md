@@ -1,5 +1,5 @@
 # ICal
-[![Build Status](https://travis-ci.org/juliendelplanque/ICal.svg?branch=master)](https://travis-ci.org/juliendelplanque/ICal)
+[![Build Status](https://travis-ci.org/juliendelplanque/pharo-ical.svg?branch=master)](https://travis-ci.org/juliendelplanque/pharo-ical)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Pharo version](https://img.shields.io/badge/Pharo-6.1-%23aac9ff.svg)](https://pharo.org/download)
 [![Pharo version](https://img.shields.io/badge/Pharo-7.0-%23aac9ff.svg)](https://pharo.org/download)
