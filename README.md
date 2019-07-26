@@ -1,5 +1,9 @@
-ICal
-====
+# ICal
+[![Build Status](https://travis-ci.org/juliendelplanque/ICal.svg?branch=master)](https://travis-ci.org/juliendelplanque/ICal)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Pharo version](https://img.shields.io/badge/Pharo-6.1-%23aac9ff.svg)](https://pharo.org/download)
+[![Pharo version](https://img.shields.io/badge/Pharo-7.0-%23aac9ff.svg)](https://pharo.org/download)
+[![Pharo version](https://img.shields.io/badge/Pharo-8.0-%23aac9ff.svg)](https://pharo.org/download)
 
 This project is a fork of http://smalltalkhub.com/#!/~pdebruic/iCal/ to create a full compatibility with the Pharo environments.
 
@@ -7,31 +11,13 @@ It provides objects to manipulate ICalendar objects (ie reading/writing).
 
 Do not hesitate to check the wiki for examples, I'll try to make it usefull to get started with this lib!
 
-## Compatibility
-The project currently works on:
-
-- Pharo 2
-- Pharo 3
-- Pharo 4
-
 ## Load the package
 To load the package in your image simply run:
 
 ~~~
 Metacello new
     baseline: 'ICal';
-    repository: 'github://juliendelplanque/pharo-ical/repository';
-    load.
-~~~
-
-## Load the tests package
-To run unit tests on your images you need to load ICal-Tests package.
-To load it with all the dependencies needed, run:
-
-~~~
-Metacello new
-    baseline: 'ICalTests';
-    repository: 'github://juliendelplanque/pharo-ical/repository';
+    repository: 'github://juliendelplanque/pharo-ical/src';
     load.
 ~~~
 
@@ -40,7 +26,7 @@ Simply add these lines to your Metacello configuration:
 
 ~~~
 spec baseline: 'ICal' with: [
-    spec repository: 'github://juliendelplanque/pharo-ical/repository' ].
+    spec repository: 'github://juliendelplanque/pharo-ical/src' ].
 ~~~
 
 # Development
