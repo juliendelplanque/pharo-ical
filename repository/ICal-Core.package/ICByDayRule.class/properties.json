@@ -1,14 +1,11 @@
 {
-	"category" : "ICal-Core-Model-Schedule",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ICByDayRule",
-	"pools" : [
-		 ],
 	"super" : "ICOrdinalByRule",
-	"type" : "normal" }
+	"category" : "ICal-Core-Model-Schedule",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ICByDayRule",
+	"type" : "normal"
+}

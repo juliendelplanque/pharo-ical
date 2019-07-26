@@ -1,16 +1,15 @@
 {
-	"category" : "ICal-Core-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 5/7/2015 20:16",
+	"super" : "Object",
+	"category" : "ICal-Core-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"name",
 		"value",
-		"parameters" ],
+		"parameters"
+	],
 	"name" : "ICUnknownProperty",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

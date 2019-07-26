@@ -1,14 +1,13 @@
 {
-	"category" : "ICal-Core-VCard-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"number" ],
-	"name" : "ICPhoneNumber",
-	"pools" : [
-		 ],
 	"super" : "ICTypedObject",
-	"type" : "normal" }
+	"category" : "ICal-Core-VCard-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"number"
+	],
+	"name" : "ICPhoneNumber",
+	"type" : "normal"
+}

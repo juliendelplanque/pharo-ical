@@ -1,10 +1,10 @@
 {
-	"category" : "ICal-Core-VCard-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "ICComponent",
+	"category" : "ICal-Core-VCard-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"addresses",
 		"categories",
@@ -25,9 +25,8 @@
 		"icqids",
 		"yahooids",
 		"timeZone",
-		"geo" ],
+		"geo"
+	],
 	"name" : "ICVCard",
-	"pools" : [
-		 ],
-	"super" : "ICComponent",
-	"type" : "normal" }
+	"type" : "normal"
+}

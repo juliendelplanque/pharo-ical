@@ -1,18 +1,17 @@
 {
-	"category" : "ICal-Core-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 5/4/2015 18:00",
+	"super" : "ICComponent",
+	"category" : "ICal-Core-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"lastModified",
 		"url",
 		"id",
 		"standardTimes",
-		"daylightSavingTimes" ],
+		"daylightSavingTimes"
+	],
 	"name" : "ICTimezone",
-	"pools" : [
-		 ],
-	"super" : "ICComponent",
-	"type" : "normal" }
+	"type" : "normal"
+}

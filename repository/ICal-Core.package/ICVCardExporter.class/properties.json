@@ -1,14 +1,13 @@
 {
-	"category" : "ICal-Core-VCard-IO",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"cards" ],
-	"name" : "ICVCardExporter",
-	"pools" : [
-		 ],
 	"super" : "ICExporter",
-	"type" : "normal" }
+	"category" : "ICal-Core-VCard-IO",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cards"
+	],
+	"name" : "ICVCardExporter",
+	"type" : "normal"
+}

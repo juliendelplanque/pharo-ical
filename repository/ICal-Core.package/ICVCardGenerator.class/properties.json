@@ -1,15 +1,14 @@
 {
-	"category" : "ICal-Core-VCard-Parser",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "ICGenerator",
+	"category" : "ICal-Core-VCard-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"currentCard",
-		"cards" ],
+		"cards"
+	],
 	"name" : "ICVCardGenerator",
-	"pools" : [
-		 ],
-	"super" : "ICGenerator",
-	"type" : "normal" }
+	"type" : "normal"
+}

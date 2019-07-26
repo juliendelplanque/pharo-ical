@@ -1,14 +1,13 @@
 {
-	"category" : "ICal-Core-Model-Schedule",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"weekStartDay" ],
-	"name" : "ICWeekStartDayRule",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "ICal-Core-Model-Schedule",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"weekStartDay"
+	],
+	"name" : "ICWeekStartDayRule",
+	"type" : "normal"
+}

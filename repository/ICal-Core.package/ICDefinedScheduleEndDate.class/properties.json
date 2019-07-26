@@ -1,14 +1,13 @@
 {
-	"category" : "ICal-Core-Model-Schedule",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"lastDay" ],
-	"name" : "ICDefinedScheduleEndDate",
-	"pools" : [
-		 ],
 	"super" : "ICAbstractRecurringScheduleEndDate",
-	"type" : "normal" }
+	"category" : "ICal-Core-Model-Schedule",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastDay"
+	],
+	"name" : "ICDefinedScheduleEndDate",
+	"type" : "normal"
+}

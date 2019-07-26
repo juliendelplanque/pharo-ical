@@ -1,17 +1,18 @@
 {
-	"category" : "ICal-Core-Abstract",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"UidStrategy" ],
 	"commentStamp" : "",
+	"super" : "ICComponent",
+	"category" : "ICal-Core-Abstract",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"UidStrategy"
+	],
 	"instvars" : [
 		"comments",
 		"url",
 		"uid",
-		"stamp" ],
+		"stamp"
+	],
 	"name" : "ICCalendarEntry",
-	"pools" : [
-		 ],
-	"super" : "ICComponent",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,15 +1,14 @@
 {
-	"category" : "ICal-Core-Model-Schedule",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ICAbstractRecurringScheduleEndDate",
+	"category" : "ICal-Core-Model-Schedule",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"occurrences",
-		"shouldStop" ],
+		"shouldStop"
+	],
 	"name" : "ICEpisodicScheduleEndDate",
-	"pools" : [
-		 ],
-	"super" : "ICAbstractRecurringScheduleEndDate",
-	"type" : "normal" }
+	"type" : "normal"
+}

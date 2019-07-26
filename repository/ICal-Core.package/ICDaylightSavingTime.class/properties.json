@@ -1,14 +1,11 @@
 {
-	"category" : "ICal-Core-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 5/3/2015 20:15",
-	"instvars" : [
-		 ],
-	"name" : "ICDaylightSavingTime",
-	"pools" : [
-		 ],
 	"super" : "ICTime",
-	"type" : "normal" }
+	"category" : "ICal-Core-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ICDaylightSavingTime",
+	"type" : "normal"
+}

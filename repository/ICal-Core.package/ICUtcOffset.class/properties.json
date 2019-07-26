@@ -1,17 +1,16 @@
 {
-	"category" : "ICal-Core-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 5/7/2015 20:10",
+	"super" : "Object",
+	"category" : "ICal-Core-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"hours",
 		"minutes",
 		"seconds",
-		"positive" ],
+		"positive"
+	],
 	"name" : "ICUtcOffset",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

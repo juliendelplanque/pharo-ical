@@ -1,14 +1,11 @@
 {
-	"category" : "ICal-Core-Model-Schedule",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ICSecondRecurrenceSchedule",
-	"pools" : [
-		 ],
 	"super" : "ICRecurrenceSchedule",
-	"type" : "normal" }
+	"category" : "ICal-Core-Model-Schedule",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ICSecondRecurrenceSchedule",
+	"type" : "normal"
+}

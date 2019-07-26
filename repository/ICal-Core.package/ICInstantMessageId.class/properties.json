@@ -1,14 +1,13 @@
 {
-	"category" : "ICal-Core-VCard-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"id" ],
-	"name" : "ICInstantMessageId",
-	"pools" : [
-		 ],
 	"super" : "ICTypedObject",
-	"type" : "normal" }
+	"category" : "ICal-Core-VCard-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id"
+	],
+	"name" : "ICInstantMessageId",
+	"type" : "normal"
+}

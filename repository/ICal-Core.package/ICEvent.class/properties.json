@@ -1,16 +1,15 @@
 {
-	"category" : "ICal-Core-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 5/3/2015 18:30",
+	"super" : "ICJob",
+	"category" : "ICal-Core-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"end",
 		"transparency",
-		"schedule" ],
+		"schedule"
+	],
 	"name" : "ICEvent",
-	"pools" : [
-		 ],
-	"super" : "ICJob",
-	"type" : "normal" }
+	"type" : "normal"
+}

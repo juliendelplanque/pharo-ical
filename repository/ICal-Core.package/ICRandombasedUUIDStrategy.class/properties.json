@@ -1,14 +1,11 @@
 {
-	"category" : "ICal-Core-Strategy",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ICRandombasedUUIDStrategy",
-	"pools" : [
-		 ],
 	"super" : "ICStrategy",
-	"type" : "normal" }
+	"category" : "ICal-Core-Strategy",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ICRandombasedUUIDStrategy",
+	"type" : "normal"
+}

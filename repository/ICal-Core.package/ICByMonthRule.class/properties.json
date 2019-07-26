@@ -1,14 +1,11 @@
 {
-	"category" : "ICal-Core-Model-Schedule",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ICByMonthRule",
-	"pools" : [
-		 ],
 	"super" : "ICAbstractByRule",
-	"type" : "normal" }
+	"category" : "ICal-Core-Model-Schedule",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ICByMonthRule",
+	"type" : "normal"
+}

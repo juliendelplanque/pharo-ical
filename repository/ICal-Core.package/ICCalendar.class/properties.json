@@ -1,10 +1,10 @@
 {
-	"category" : "ICal-Core-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 5/3/2015 19:23",
+	"super" : "ICComponent",
+	"category" : "ICal-Core-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"categories",
 		"events",
@@ -17,9 +17,8 @@
 		"todos",
 		"users",
 		"version",
-		"name" ],
+		"name"
+	],
 	"name" : "ICCalendar",
-	"pools" : [
-		 ],
-	"super" : "ICComponent",
-	"type" : "normal" }
+	"type" : "normal"
+}

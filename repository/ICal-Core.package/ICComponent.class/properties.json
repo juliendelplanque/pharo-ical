@@ -1,14 +1,13 @@
 {
-	"category" : "ICal-Core-Abstract",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"unknownProperties" ],
-	"name" : "ICComponent",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "ICal-Core-Abstract",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"unknownProperties"
+	],
+	"name" : "ICComponent",
+	"type" : "normal"
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "ICal-Core-VCard-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ICAIMId",
-	"pools" : [
-		 ],
 	"super" : "ICInstantMessageId",
-	"type" : "normal" }
+	"category" : "ICal-Core-VCard-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ICAIMId",
+	"type" : "normal"
+}

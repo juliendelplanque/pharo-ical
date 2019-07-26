@@ -1,14 +1,11 @@
 {
-	"category" : "ICal-Core-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 5/7/2015 19:37",
-	"instvars" : [
-		 ],
-	"name" : "ICStandardTime",
-	"pools" : [
-		 ],
 	"super" : "ICTime",
-	"type" : "normal" }
+	"category" : "ICal-Core-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ICStandardTime",
+	"type" : "normal"
+}
