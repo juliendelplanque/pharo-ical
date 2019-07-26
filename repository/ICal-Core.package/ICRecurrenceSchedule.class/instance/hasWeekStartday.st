@@ -1,3 +1,0 @@
-testing
-hasWeekStartday
-	^ false

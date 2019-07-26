@@ -1,3 +1,0 @@
-accessing-actions
-actionProcedure
-	^'PROCEDURE'

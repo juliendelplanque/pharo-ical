@@ -1,3 +1,0 @@
-exporting
-export
-	self subclassResponsibility

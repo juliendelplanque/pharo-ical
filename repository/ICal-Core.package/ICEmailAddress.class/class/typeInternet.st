@@ -1,3 +1,0 @@
-accessing-types
-typeInternet
-	^'internet'

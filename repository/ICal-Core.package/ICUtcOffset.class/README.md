@@ -1,1 +1,0 @@
-I am the representation of the UTC-OFFSET ical's type (RFC 2445).

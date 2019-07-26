@@ -1,3 +1,0 @@
-growing
-isMonthDay
-	^ true

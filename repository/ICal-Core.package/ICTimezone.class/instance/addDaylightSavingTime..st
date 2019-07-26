@@ -1,3 +1,0 @@
-accessing
-addDaylightSavingTime: aDaylightSavingTime
-	self daylightSavingTimes add: aDaylightSavingTime

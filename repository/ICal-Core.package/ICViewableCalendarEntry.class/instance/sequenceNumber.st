@@ -1,3 +1,0 @@
-accessing
-sequenceNumber
-	^sequenceNumber

@@ -1,3 +1,0 @@
-accessing-types
-typePager
-	^'pager'

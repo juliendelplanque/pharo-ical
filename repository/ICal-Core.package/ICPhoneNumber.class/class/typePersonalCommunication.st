@@ -1,3 +1,0 @@
-accessing-types
-typePersonalCommunication
-	^'pcs'

@@ -1,6 +1,0 @@
-dispatching
-noParameterSelectors
-	^#(
-		'begin:'
-		'end:'
-	)

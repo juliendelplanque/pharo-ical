@@ -1,3 +1,0 @@
-rules
-modifyScheduleWithByRules
-	self shouldBeImplemented.

@@ -1,3 +1,0 @@
-private
-dateClass
-	^ICConversion dateClass

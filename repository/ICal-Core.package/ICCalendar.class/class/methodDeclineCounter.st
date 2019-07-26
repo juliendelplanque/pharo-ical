@@ -1,3 +1,0 @@
-constants
-methodDeclineCounter
-	^'DECLINE-COUNTER'

@@ -1,3 +1,0 @@
-*ICal-Core
-asICalBooleanString
-	^'TRUE'

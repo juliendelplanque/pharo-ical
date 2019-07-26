@@ -1,3 +1,0 @@
-transparency
-transparency
-	^transparency

@@ -1,3 +1,0 @@
-accessing-transparencies
-transparencyTranparent
-	^'TRANSPARENT'

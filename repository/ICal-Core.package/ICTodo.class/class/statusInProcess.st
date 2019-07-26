@@ -1,3 +1,0 @@
-accessing
-statusInProcess
-	^'IN-PROCESS'

@@ -1,3 +1,0 @@
-accessing
-defaultEnd
-	^ self lastDay

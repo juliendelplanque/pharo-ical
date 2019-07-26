@@ -1,3 +1,0 @@
-private
-timespanClass
-	^ ICConversion timespanClass

@@ -1,4 +1,0 @@
-accessing-classifications
-classificationConfidential
-	^'CONFIDENTIAL'
-	

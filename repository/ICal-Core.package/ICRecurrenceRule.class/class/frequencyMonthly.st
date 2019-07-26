@@ -1,3 +1,0 @@
-accessing
-frequencyMonthly
-	^'MONTHLY'

@@ -1,2 +1,0 @@
-*ICal-Core
-exportICalParametersOn: aExporter

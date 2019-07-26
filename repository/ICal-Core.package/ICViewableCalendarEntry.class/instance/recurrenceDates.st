@@ -1,3 +1,0 @@
-accessing
-recurrenceDates
-	^recurrenceDates

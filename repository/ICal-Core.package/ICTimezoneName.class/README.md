@@ -1,1 +1,0 @@
-This object is used to define the name of a Timezone.

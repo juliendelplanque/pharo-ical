@@ -1,3 +1,0 @@
-accessing
-frequencyHourly
-	^'HOURLY'

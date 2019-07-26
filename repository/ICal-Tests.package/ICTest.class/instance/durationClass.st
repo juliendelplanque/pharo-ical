@@ -1,3 +1,0 @@
-private
-durationClass
-	^ICConversion durationClass

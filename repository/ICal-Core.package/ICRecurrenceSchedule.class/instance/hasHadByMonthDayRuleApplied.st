@@ -1,3 +1,0 @@
-testing
-hasHadByMonthDayRuleApplied
-	^self checkByRulesToSeeIfAnyAre: #isMonthDay

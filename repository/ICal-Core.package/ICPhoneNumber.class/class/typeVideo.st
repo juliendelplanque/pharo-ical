@@ -1,3 +1,0 @@
-accessing-types
-typeVideo
-	^'video'

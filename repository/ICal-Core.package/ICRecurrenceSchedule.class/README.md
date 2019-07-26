@@ -1,1 +1,0 @@
-Contains  the FREQ and INTERVAL portion, the BYxxx rules.  and the COUNT or UNTIL of the RRULE/EXRULE definition.  The FREQ is the only thing thats required.  The interesting things are #datesBetween: and:, #next, #next:, and #next:starting: 

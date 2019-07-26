@@ -1,4 +1,0 @@
-accessing
-endDate
-
-	^ endDate

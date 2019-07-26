@@ -1,3 +1,0 @@
-length
-trimEndOf: someDates
-	^ someDates

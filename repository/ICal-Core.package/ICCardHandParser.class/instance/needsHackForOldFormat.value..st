@@ -1,3 +1,0 @@
-testing
-needsHackForOldFormat: aParameterName value: aParameterValue
-	^aParameterValue isEmptyOrNil

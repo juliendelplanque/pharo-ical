@@ -1,3 +1,0 @@
-processing-properties
-endVcalendar
-	"nothing"

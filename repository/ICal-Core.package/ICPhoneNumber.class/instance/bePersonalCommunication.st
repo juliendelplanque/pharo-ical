@@ -1,3 +1,0 @@
-accessing-types
-bePersonalCommunication
-	self personalCommunication: true
