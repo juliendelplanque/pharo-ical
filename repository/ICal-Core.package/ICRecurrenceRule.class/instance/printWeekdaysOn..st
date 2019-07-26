@@ -1,7 +1,7 @@
 private
 printWeekdaysOn: aStream
 	aStream nextPutAll: 'BYDAY='.
-	self weekdays
+	(self weekdays sorted: [ :a | a isString ifTrue: [ a ] ifFalse: [ a key ] ] asSortFunction)
 		do: [ :each |
 			each isString
 				ifTrue: [ aStream nextPutAll: each ]
