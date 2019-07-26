@@ -1,5 +1,5 @@
 exporting
 exportICalParametersOn: anExpoter
 	super exportICalParametersOn: anExpoter.
-	self types do: [ :each |
+	self types sorted do: [ :each |
 		anExpoter exportParameter: 'TYPE' value: each ]
