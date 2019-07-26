@@ -1,16 +1,15 @@
 {
-	"category" : "ICal-Tests-Core-Model-Schedule",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ICTest",
+	"category" : "ICal-Tests-Core-Model-Schedule",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"byRule",
 		"date",
-		"event" ],
+		"event"
+	],
 	"name" : "ICByRuleTests",
-	"pools" : [
-		 ],
-	"super" : "ICTest",
-	"type" : "normal" }
+	"type" : "normal"
+}

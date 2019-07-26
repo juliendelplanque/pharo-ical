@@ -1,7 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "PaulDeBruicker 12/10/2012 17:17",
-		"testOrdinalIndexes" : "PaulDeBruicker 2/22/2013 08:23",
-		"testStartOfFirstWeek" : "PaulDeBruicker 2/22/2013 08:26" } }

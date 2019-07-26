@@ -1,18 +1,17 @@
 {
-	"category" : "ICal-Tests-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ICTest",
+	"category" : "ICal-Tests-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"appointment1",
 		"appointment2",
 		"todo",
 		"eventSerie",
-		"calendar" ],
+		"calendar"
+	],
 	"name" : "ICEventTest",
-	"pools" : [
-		 ],
-	"super" : "ICTest",
-	"type" : "normal" }
+	"type" : "normal"
+}
